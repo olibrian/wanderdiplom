@@ -1,8 +1,11 @@
-# Wanderdiplom
+# Wanderdiplom Generator
+
+
+![Printscreen](printscreen.png)
 
 ## About
 
-The Wanderdiplom Generator is a web application that allows users to create personalized hiking diplomas (Wanderdiploms) as PDF files. Users can input their name, select a diploma type, and download the generated PDF.
+The Wanderdiplom Generator is a mostly AI-gernated web application. It allows users to create personalized hiking diplomas (Wanderdiploms) as PDF files. Users can input their name, select a diploma type, and download the generated PDF.
 
 ## Prerequisites
 
